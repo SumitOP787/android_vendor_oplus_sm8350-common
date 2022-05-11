@@ -7,12 +7,13 @@
                 "configs": {
                     "vendor.qti-ext-vpp.mode": "HQV_MODE_MANUAL",
                     "vendor.qti-ext-vpp-aie.mode": "HQV_MODE_MANUAL",
-                    "vendor.qti-ext-vpp-aie.cade-level": "0",
-                    "vendor.qti-ext-vpp-aie.ltm-sat-gain": "70",
+                    "vendor.qti-ext-vpp-aie.cade-level": "20",
+                    "vendor.qti-ext-vpp-aie.ltm-level":"25",
+                    "vendor.qti-ext-vpp-aie.ltm-sat-gain": "100",
                     "vendor.qti-ext-vpp-aie.ltm-sat-offset": "55",
-                    "vendor.qti-ext-vpp-aie.ltm-ace-str": "50",
-                    "vendor.qti-ext-vpp-aie.ltm-ace-brightness-low": "25",
-                    "vendor.qti-ext-vpp-aie.ltm-ace-brightness-high": "0"
+                    "vendor.qti-ext-vpp-aie.ltm-ace-str": "55",
+                    "vendor.qti-ext-vpp-aie.ltm-ace-brightness-low": "27",
+                    "vendor.qti-ext-vpp-aie.ltm-ace-brightness-high": "15"
                 }
             },
             {

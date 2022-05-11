@@ -32,10 +32,4 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         <Name>libsnapdragoncolor-qdcm.so</Name>
         <ProcessingOrder>1</ProcessingOrder>
     </Library>
-    <Library>
-        <Name>libsnapdragoncolor-pxlw.so</Name>
-        <ProcessingOrder>2</ProcessingOrder>
-        <DisableColorTransform>true</DisableColorTransform>
-        <DisableLibrary>false</DisableLibrary>
-    </Library>
 </StcLibraries>
