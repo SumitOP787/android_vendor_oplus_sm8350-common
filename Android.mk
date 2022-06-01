@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter martini RMX2202 RMX3360,$(TARGET_DEVICE)),)
+ifneq ($(filter martini OP524F RMX2202 RMX3310 RMX3360 RMX3461,$(TARGET_DEVICE)),)
 
 endif
